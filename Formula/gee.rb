@@ -5,7 +5,7 @@ class Gee < Formula
   desc "CLI repository manager and automation tool written in rust."
   homepage "https://github.com/human37/gee"
   url "https://github.com/human37/gee/releases/download/v1.2/gee-mac.tar.gz"
-  sha256 "9c0f276b057ba37943edafe5d5ad86a3a470e3c266f47b1855b0b2f95596b3e9"
+  sha256 "23db889daeb6aa40b30cfa8e3027383d787127288ab1f7c67c092732454e9768"
   version "1.2"
 
   def install
